@@ -51,3 +51,5 @@ Test has park kind arch marry.
 Test has park kind arch land.
 
 Test is did.
+
+Test has major.
